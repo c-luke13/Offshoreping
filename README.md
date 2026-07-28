@@ -8,7 +8,7 @@ alerts to a shore-based monitoring station — no phone signal required.
 
 ## Learn more
 
-Visit [offshoreping.github.io/offshoreping](https://c-luke13.github.io/offshoreping) for full product information.
+Visit [https://c-luke13.github.io/offshoreping](https://c-luke13.github.io/Offshoreping) for full product information.
 
 ## Status
 
