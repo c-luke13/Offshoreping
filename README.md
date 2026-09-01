@@ -4,7 +4,7 @@
 
 OffshorePing is a wearable marine safety system that tracks swimmers and 
 surfers beyond cellular range, transmitting live GPS position and emergency 
-alerts to a shore-based monitoring station — no phone signal required.
+alerts to a shore-based monitoring station - no phone signal required.
 
 ## Learn more
 
@@ -12,11 +12,11 @@ Visit [https://c-luke13.github.io/offshoreping](https://c-luke13.github.io/Offsh
 
 ## Status
 
-- ✅ Working prototype — system demonstrated and verified
+- ✅ Working prototype: System demonstrated and verified
 - ✅ Custom PCB design complete
-- ✅ Patent pending — INPI Portugal (May 2026)
-- 🔄 Open-water field testing — in progress
-- 🔄 Pilot deployment with Portuguese swim clubs — upcoming
+- ✅ Patent pending: INPI Portugal (May 2026)
+- 🔄 Open-water field testing - in progress
+- 🔄 Pilot deployment with Portuguese swim clubs - upcoming
 
 ## Contact
 
