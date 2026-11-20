@@ -21,7 +21,7 @@ Visit [https://c-luke13.github.io/offshoreping](https://c-luke13.github.io/Offsh
 ## Contact
 
 Interested in piloting, partnering, or investing?  
-**offshoreping@gmail.com**
+**luke.coleman@offshoreping.com**
 
 ---
 
