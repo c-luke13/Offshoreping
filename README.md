@@ -8,7 +8,7 @@ alerts to a shore-based monitoring station - no phone signal required.
 
 ## Learn more
 
-Visit [https://c-luke13.github.io/offshoreping](https://c-luke13.github.io/Offshoreping) for full product information.
+Visit [https://offshoreping.com](https://Offshoreping.com) for full product information.
 
 ## Status
 
@@ -25,4 +25,4 @@ Interested in piloting, partnering, or investing?
 
 ---
 
-*Patent Pending · INPI Portugal · © 2026 Luke Coleman*
+*Patent Pending · INPI Portugal & USPTO USA· © 2026 Luke Coleman*
